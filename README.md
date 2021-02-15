@@ -1,3 +1,3 @@
 # XR-Medical-Imaging
 
-<img src="https://github.com/imclab/XR-Medical-Imaging/COVIDvis-diagram-final.jpg" width="300">
+<img src="https://github.com/imclab/XR-Medical-Imaging/blob/main/COVIDvis-diagram-final.jpg">
