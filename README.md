@@ -7,4 +7,4 @@ AR, VR & XR Medical Imaging code & resources related to our COVID-vis software:
 https://www.youtube.com/watch?v=N6cPCxtstHQ
 http://TheIMCLab.com
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6cPCxtstHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/N6cPCxtstHQ"></iframe>
