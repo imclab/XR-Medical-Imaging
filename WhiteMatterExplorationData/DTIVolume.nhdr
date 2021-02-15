@@ -1,0 +1,14 @@
+NRRD0005
+# Complete NRRD file format specification at:
+# http://teem.sourceforge.net/nrrd/format.html
+type: float
+dimension: 4
+space: right-anterior-superior
+sizes: 9 256 256 51
+space directions: none (-1,0,0) (0,-1,0) (0,0,2.6)
+kinds: 3D-matrix domain domain domain
+endian: little
+encoding: gzip
+space origin: (130.427,153.278,-6.25879)
+measurement frame: (-1,0,0) (0,-1,0) (0,0,1)
+data file: DTIVolume.raw.gz
